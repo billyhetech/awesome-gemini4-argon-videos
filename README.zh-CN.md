@@ -7,7 +7,7 @@
 
 用 **Gemini 4 Argon**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 302 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ 在 clawshelf.com 观看全部 303 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,7 +15,7 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **59 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-16):共 302 条
+- 最近更新(2026-10-16):共 303 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
@@ -23,7 +23,7 @@
 - [动态图形](#动态图形) (77)
 - [讲解动画](#讲解动画) (0)
 - [3D 场景](#3d-场景) (101)
-- [游戏与交互](#游戏与交互) (122)
+- [游戏与交互](#游戏与交互) (123)
 - [长片](#长片) (2)
 - [音乐视频](#音乐视频) (0)
 - [最新收录](#最新收录)
@@ -63,7 +63,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/aurora-theme-switcher-flutter?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/ulusoyapps-881608/preview.webp" alt="Gemini 4 Argon video by @ulusoyapps" width="100%"></a><br><a href="https://x.com/ulusoyapps/status/2110045173723881608"><b>@ulusoyapps</b></a> · <a href="prompts/ulusoyapps-881608.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/dot-test-character-sprite-transformations?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/benchmark-lb900-411588/preview.webp" alt="Gemini 4 Argon video by @benchmark_lb900" width="100%"></a><br><a href="https://x.com/benchmark_lb900/status/2110045947275411588"><b>@benchmark_lb900</b></a> · <a href="prompts/benchmark-lb900-411588.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/windows-98-retro-ui?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/fanxing321-896220/preview.webp" alt="Gemini 4 Argon video by @fanxing321" width="100%"></a><br><a href="https://x.com/fanxing321/status/2110048324325896220"><b>@fanxing321</b></a> · <a href="prompts/fanxing321-896220.md">提示词</a><br><sub>Canvas</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 122 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
+[▶ 在 clawshelf.com 查看全部 123 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
 
 ## 长片
 
@@ -81,6 +81,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Thousand Sunny at Sunset](https://clawshelf.com/ai-videos/gemini-4-argon/thousand-sunny-sunset?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@SubhavMathur](https://x.com/SubhavMathur/status/2110858544077762620) · [详情](prompts/subhavmathur-762620.md)
 - [VroomX Toy Factory Grand Prix](https://clawshelf.com/ai-videos/gemini-4-argon/vroomx-toy-factory-grand-prix?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@moc_tx89](https://x.com/moc_tx89/status/2110979632019501329) · [详情](prompts/moc-tx89-501329.md)
 - [Aero-Raptor Mechanical Hawk](https://clawshelf.com/ai-videos/gemini-4-argon/aero-raptor-mechanical-hawk?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@eiichi292929](https://x.com/eiichi292929/status/2111031676730245466) · [详情](prompts/eiichi292929-245466.md)
+- [Interactive Transparent Sushi Box](https://clawshelf.com/ai-videos/gemini-4-argon/interactive-transparent-sushi-box?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ann_nnng](https://x.com/ann_nnng/status/2111071463155564733) · [详情](prompts/ann-nnng-564733.md)
 - [534 Code Paintings](https://clawshelf.com/ai-videos/gemini-4-argon/534-code-paintings?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@kickingkeys](https://x.com/kickingkeys/status/2110037855452180633) · [详情](prompts/kickingkeys-180633.md)
 - [Procedural Three.js Alpine Town](https://clawshelf.com/ai-videos/gemini-4-argon/procedural-three-js-alpine-town?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@LexnLin](https://x.com/LexnLin/status/2110037856588845536) · [详情](prompts/lexnlin-845536.md)
 - [Animated Personal Website](https://clawshelf.com/ai-videos/gemini-4-argon/animated-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@LexnLin](https://x.com/LexnLin/status/2110037859294159072) · [提示词](prompts/lexnlin-159072.md)
@@ -106,7 +107,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Butterfly Museum with Five Specimens](https://clawshelf.com/ai-videos/gemini-4-argon/butterfly-museum-five-specimens?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@doe_naps](https://x.com/doe_naps/status/2110041557021950348) · [详情](prompts/doe-naps-950348.md)
 - [Code Painting — Flowers at Sunset](https://clawshelf.com/ai-videos/gemini-4-argon/code-painting-flowers-sunset?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@kickingkeys](https://x.com/kickingkeys/status/2110041607777206296) · [详情](prompts/kickingkeys-206296.md)
 - [Desk Racer — A Home Office Racing Game](https://clawshelf.com/ai-videos/gemini-4-argon/desk-racer-home-office-racing-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@genevieve__h](https://x.com/genevieve__h/status/2110041611455353197) · [详情](prompts/genevieve-h-353197.md)
-- [Interactive Museum of Apple Computers](https://clawshelf.com/ai-videos/gemini-4-argon/interactive-museum-apple-computers?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@venturetwins](https://x.com/venturetwins/status/2110041613179527253) · [详情](prompts/venturetwins-527253.md)
 
 ## 如何使用 prompt
 

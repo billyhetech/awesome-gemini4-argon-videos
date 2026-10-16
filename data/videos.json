@@ -8435,5 +8435,22 @@
    "bytes": 3363215,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "ann-nnng-564733",
+  "seo_slug": "interactive-transparent-sushi-box",
+  "model": "gemini-4-argon",
+  "author": "ann_nnng",
+  "author_url": "https://x.com/ann_nnng",
+  "post_url": "https://x.com/ann_nnng/status/2111071463155564733",
+  "title": "Interactive Transparent Sushi Box",
+  "category": "games-interactive",
+  "tech_tags": [
+   "threejs",
+   "glsl"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16"
  }
 ]
