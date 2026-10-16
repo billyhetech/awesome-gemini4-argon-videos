@@ -8394,7 +8394,19 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-16"
+  "added": "2026-10-16",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/moc-tx89-501329/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/moc-tx89-501329/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/moc-tx89-501329/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/moc-tx89-501329/poster.jpg",
+   "width": 1280,
+   "height": 686,
+   "duration_ms": 49966,
+   "bytes": 11495148,
+   "synced_at": "2026-10-16"
+  }
  },
  {
   "slug": "eiichi292929-245466",
@@ -8410,6 +8422,18 @@
   ],
   "prompt": "",
   "prompt_partial": true,
-  "added": "2026-10-16"
+  "added": "2026-10-16",
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/eiichi292929-245466/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/eiichi292929-245466/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/eiichi292929-245466/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/eiichi292929-245466/poster.jpg",
+   "width": 1306,
+   "height": 720,
+   "duration_ms": 21891,
+   "bytes": 3363215,
+   "synced_at": "2026-10-16"
+  }
  }
 ]
