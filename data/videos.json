@@ -8379,5 +8379,37 @@
    "bytes": 7358145,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "moc-tx89-501329",
+  "seo_slug": "vroomx-toy-factory-grand-prix",
+  "model": "gemini-4-argon",
+  "author": "moc_tx89",
+  "author_url": "https://x.com/moc_tx89",
+  "post_url": "https://x.com/moc_tx89/status/2110979632019501329",
+  "title": "VroomX Toy Factory Grand Prix",
+  "category": "games-interactive",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16"
+ },
+ {
+  "slug": "eiichi292929-245466",
+  "seo_slug": "aero-raptor-mechanical-hawk",
+  "model": "gemini-4-argon",
+  "author": "eiichi292929",
+  "author_url": "https://x.com/eiichi292929",
+  "post_url": "https://x.com/eiichi292929/status/2111031676730245466",
+  "title": "Aero-Raptor Mechanical Hawk",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-16"
  }
 ]
