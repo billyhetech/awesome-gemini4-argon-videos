@@ -8464,5 +8464,370 @@
    "bytes": 4427057,
    "synced_at": "2026-10-16"
   }
+ },
+ {
+  "slug": "google-411579",
+  "seo_slug": "gemini-4-argon-any-builder-can",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2112199261899411579",
+  "title": "With Gemini 4 Argon, any builder can transform physical spaces into interactive…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "blender",
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 735262,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "googledeepmind-752930",
+  "seo_slug": "gemini-4-argon-3d-periodic-table",
+  "model": "gemini-4-argon",
+  "author": "GoogleDeepMind",
+  "author_url": "https://x.com/GoogleDeepMind",
+  "post_url": "https://x.com/GoogleDeepMind/status/2112557925264752930",
+  "title": "Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elem…",
+  "category": "music-videos",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 555233,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "bercankilic-388884",
+  "seo_slug": "today-releasing-two-benchmarks",
+  "model": "gemini-4-argon",
+  "author": "bercankilic",
+  "author_url": "https://x.com/bercankilic",
+  "post_url": "https://x.com/bercankilic/status/2112316584534388884",
+  "title": "Today we are releasing two new benchmarks:",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 461344,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-540555",
+  "seo_slug": "let-video-own-soundtrack",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2113283068274540555",
+  "title": "Let your video create its own soundtrack 🎶",
+  "category": "motion",
+  "tech_tags": [
+   "web-audio",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 392256,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-602487",
+  "seo_slug": "studio-grade-3d-fur-dynamics-running",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2112552114467602487",
+  "title": "Studio-grade 3D fur dynamics, running live in your browser with Gemini 4 Argon.",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "webgl",
+   "glsl",
+   "playable"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 237724,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-181739",
+  "seo_slug": "researchers-put-gemini-4-argon-test",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2112914740058181739",
+  "title": "Researchers at put Gemini 4 Argon to the test against complex cyber threats.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 203225,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-075794",
+  "seo_slug": "starting-single-nano-banana-image-gemini",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2113353489938075794",
+  "title": "Starting from a single Nano Banana image, Gemini 4 Argon created this finished…",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 177434,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "googledeepmind-247896",
+  "seo_slug": "gemini-4-argon-combined-three-open",
+  "model": "gemini-4-argon",
+  "author": "GoogleDeepMind",
+  "author_url": "https://x.com/GoogleDeepMind",
+  "post_url": "https://x.com/GoogleDeepMind/status/2112974723659247896",
+  "title": "Gemini 4 Argon combined three open-source datasets to build an interactive 3D v…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 166243,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "google-450865",
+  "seo_slug": "step-inside-1000-year-old-ruins",
+  "model": "gemini-4-argon",
+  "author": "Google",
+  "author_url": "https://x.com/Google",
+  "post_url": "https://x.com/Google/status/2113005543623450865",
+  "title": "Step inside 1,000-year-old ruins: see how Gemini 4 Argon turns fragmented archa…",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 108240,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ramplabs-706886",
+  "seo_slug": "gemini-4-argon-top-model-ramp",
+  "model": "gemini-4-argon",
+  "author": "RampLabs",
+  "author_url": "https://x.com/RampLabs",
+  "post_url": "https://x.com/RampLabs/status/2112634814339706886",
+  "title": "Gemini 4 Argon is the new top model on Ramp Accounting Bench.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 68268,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "thtbee-147750",
+  "seo_slug": "gemini-4-carbon-mechanical-flower",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2112935205703147750",
+  "title": "Gemini 4 Carbon - A Mechanical flower!",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "but I did say it to be creative and didn't limit it with constraints..\n\nA lot of improvements over Argon tbh.. I'll share my observations once i have some more outputs.. I've got one more and still trying to get more.. stay tuned!",
+  "prompt_partial": false,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 47739,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "lentils80-668854",
+  "seo_slug": "output-updated-carbon-checkpoint",
+  "model": "gemini-4-argon",
+  "author": "Lentils80",
+  "author_url": "https://x.com/Lentils80",
+  "post_url": "https://x.com/Lentils80/status/2113246123959668854",
+  "title": "An output from the updated Carbon checkpoint 😼",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 24882,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "itspaulai-962328",
+  "seo_slug": "gemini-4-argon-has-health-ai",
+  "model": "gemini-4-argon",
+  "author": "itsPaulAi",
+  "author_url": "https://x.com/itsPaulAi",
+  "post_url": "https://x.com/itsPaulAi/status/2112276833395962328",
+  "title": "Gemini 4 Argon has just built a health AI app that is local and open source!",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 24675,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ai-for-success-258526",
+  "seo_slug": "gemini-4-argon-shore-temple-blender",
+  "model": "gemini-4-argon",
+  "author": "ai_for_success",
+  "author_url": "https://x.com/ai_for_success",
+  "post_url": "https://x.com/ai_for_success/status/2113079526641258526",
+  "title": "I asked Gemini 4 Argon to build the Shore Temple in Blender. The temple is appr…",
+  "category": "motion",
+  "tech_tags": [
+   "blender",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 20339,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "ai-screening-435047",
+  "seo_slug": "gemini-4-carbon-checkpoint-arena-vs-2",
+  "model": "gemini-4-argon",
+  "author": "AI_Screening",
+  "author_url": "https://x.com/AI_Screening",
+  "post_url": "https://x.com/AI_Screening/status/2113184121883435047",
+  "title": "Gemini 4 Carbon checkpoint in Arena vs. Opus 5.5 vs. GPT-6 Astra",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 17783,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "sammmaing-828632",
+  "seo_slug": "okay-gemini-4-argon-freaking-good",
+  "model": "gemini-4-argon",
+  "author": "SammmAing",
+  "author_url": "https://x.com/SammmAing",
+  "post_url": "https://x.com/SammmAing/status/2113098378942828632",
+  "title": "Okay, Gemini 4 Argon is freaking good at this.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 16793,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "thtbee-464147",
+  "seo_slug": "gemini-4-carbon-two-black-hole",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2113301369826464147",
+  "title": "Gemini 4 Carbon - Two Black Hole Horizons...",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "was to recreate them as closely as possible..\n\nAnd wow! This is fully in three.js and took 1h 40m..\n\nI gave Argon the same task and I'll share how it did soon! So stay tuned..",
+  "prompt_partial": false,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 16691,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "davideast-285730",
+  "seo_slug": "multiplane-occlusion-use-technique-animation-static",
+  "model": "gemini-4-argon",
+  "author": "_davideast",
+  "author_url": "https://x.com/_davideast",
+  "post_url": "https://x.com/_davideast/status/2112932231270285730",
+  "title": "Multiplane occlusion. Use this technique to create an animation from a static i…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 13748,
+   "captured_at": "2026-10-23"
+  }
  }
 ]

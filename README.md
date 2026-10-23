@@ -7,25 +7,25 @@
 
 Viral videos made with **Gemini 4 Argon** — animations, games, 3D scenes and long-form shorts rendered entirely from code (HTML, Canvas, SVG, Three.js and friends). Every entry links to the creator's original post and, where the creator shared it, the prompt behind it.
 
-**[▶ Watch all 303 videos on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ Watch all 321 videos on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
 
 📦 Every model in one list: [Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-**59 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
+**61 prompts** in [`prompts/`](prompts/) and [`data/videos.json`](data/videos.json) · every entry links to the creator's original post · [submit a video](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
 
-- Latest update (2026-10-16): 303 videos total
+- Latest update (2026-10-23): 321 videos total
 - The 12 most viewed per category are highlighted below; tap any video to watch it on clawshelf.com
 
 ## Contents
 
-- [Motion graphics](#motion-graphics) (77)
+- [Motion graphics](#motion-graphics) (88)
 - [Explainers](#explainers) (0)
-- [3D scenes](#3d-scenes) (101)
-- [Games & interactive](#games--interactive) (123)
+- [3D scenes](#3d-scenes) (106)
+- [Games & interactive](#games--interactive) (124)
 - [Long-form](#long-form) (2)
-- [Music videos](#music-videos) (0)
+- [Music videos](#music-videos) (1)
 - [Latest videos](#latest-videos)
 
 ## Motion graphics
@@ -37,7 +37,7 @@ Other single-model lists: [Opus 5.5](https://github.com/billyhetech/awesome-opus
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/pelican-riding-bicycle-by-nexusonelw?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/nexusonelw-237775/preview.webp" alt="Gemini 4 Argon video by @nexusonelw" width="100%"></a><br><a href="https://x.com/nexusonelw/status/2110042577735237775"><b>@nexusonelw</b></a> · <a href="prompts/nexusonelw-237775.md">Details</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/fourier-epicycles-cycling-pelican?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/fofrai-284889/preview.webp" alt="Gemini 4 Argon video by @fofrAI" width="100%"></a><br><a href="https://x.com/fofrAI/status/2110043023954284889"><b>@fofrAI</b></a> · <a href="prompts/fofrai-284889.md">Details</a><br><sub>Web Audio</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/daily-life-bee?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/thtbee-116000/preview.webp" alt="Gemini 4 Argon video by @thtbee_" width="100%"></a><br><a href="https://x.com/thtbee_/status/2110044715618116000"><b>@thtbee_</b></a> · <a href="prompts/thtbee-116000.md">Details</a><br><sub>Canvas</sub></td></tr>
 </table>
 
-[▶ See all 77 on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
+[▶ See all 88 on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
 
 ## Explainers
 
@@ -52,7 +52,7 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gemini4-
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/argon-18-nitrogen-pro-bicycle-demo?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/seraandroid-383472/preview.webp" alt="Gemini 4 Argon video by @SeraAndroid" width="100%"></a><br><a href="https://x.com/SeraAndroid/status/2110041849767383472"><b>@SeraAndroid</b></a> · <a href="prompts/seraandroid-383472.md">Details</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/san-francisco-3d?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/athrix-codes-508794/preview.webp" alt="Gemini 4 Argon video by @athrix_codes" width="100%"></a><br><a href="https://x.com/athrix_codes/status/2110042012095508794"><b>@athrix_codes</b></a> · <a href="prompts/athrix-codes-508794.md">Details</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/international-space-station-simulation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/tnahddisttud-810109/preview.webp" alt="Gemini 4 Argon video by @tnahddisttud" width="100%"></a><br><a href="https://x.com/tnahddisttud/status/2110042549037810109"><b>@tnahddisttud</b></a> · <a href="prompts/tnahddisttud-810109.md">Details</a><br><sub>Blender</sub></td></tr>
 </table>
 
-[▶ See all 101 on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=3d-scenes)
+[▶ See all 106 on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=3d-scenes)
 
 ## Games & interactive
 
@@ -63,7 +63,7 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gemini4-
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/aurora-theme-switcher-flutter?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/ulusoyapps-881608/preview.webp" alt="Gemini 4 Argon video by @ulusoyapps" width="100%"></a><br><a href="https://x.com/ulusoyapps/status/2110045173723881608"><b>@ulusoyapps</b></a> · <a href="prompts/ulusoyapps-881608.md">Details</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/dot-test-character-sprite-transformations?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/benchmark-lb900-411588/preview.webp" alt="Gemini 4 Argon video by @benchmark_lb900" width="100%"></a><br><a href="https://x.com/benchmark_lb900/status/2110045947275411588"><b>@benchmark_lb900</b></a> · <a href="prompts/benchmark-lb900-411588.md">Details</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/windows-98-retro-ui?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/fanxing321-896220/preview.webp" alt="Gemini 4 Argon video by @fanxing321" width="100%"></a><br><a href="https://x.com/fanxing321/status/2110048324325896220"><b>@fanxing321</b></a> · <a href="prompts/fanxing321-896220.md">Prompt</a><br><sub>Canvas</sub></td></tr>
 </table>
 
-[▶ See all 123 on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
+[▶ See all 124 on clawshelf.com](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
 
 ## Long-form
 
@@ -73,10 +73,30 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gemini4-
 
 ## Music videos
 
-_No entries yet — [submit one](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)._
+<table>
+<tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-3d-periodic-table?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><b>Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elem…</b></a><br><a href="https://x.com/GoogleDeepMind/status/2112557925264752930"><b>@GoogleDeepMind</b></a> · <a href="prompts/googledeepmind-752930.md">Details</a><br><sub>Canvas · 555K views</sub></td></tr>
+</table>
 
 ## Latest videos
 
+- [With Gemini 4 Argon, any builder can transform physical spaces into interactive…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-any-builder-can?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2112199261899411579) · [Details](prompts/google-411579.md)
+- [Gemini 4 Argon built a 3D periodic table synced to Tom Lehrer’s song, “The Elem…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-3d-periodic-table?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@GoogleDeepMind](https://x.com/GoogleDeepMind/status/2112557925264752930) · [Details](prompts/googledeepmind-752930.md)
+- [Today we are releasing two new benchmarks:](https://clawshelf.com/ai-videos/gemini-4-argon/today-releasing-two-benchmarks?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@bercankilic](https://x.com/bercankilic/status/2112316584534388884) · [Details](prompts/bercankilic-388884.md)
+- [Let your video create its own soundtrack 🎶](https://clawshelf.com/ai-videos/gemini-4-argon/let-video-own-soundtrack?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2113283068274540555) · [Details](prompts/google-540555.md)
+- [Studio-grade 3D fur dynamics, running live in your browser with Gemini 4 Argon.](https://clawshelf.com/ai-videos/gemini-4-argon/studio-grade-3d-fur-dynamics-running?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2112552114467602487) · [Details](prompts/google-602487.md)
+- [Researchers at put Gemini 4 Argon to the test against complex cyber threats.](https://clawshelf.com/ai-videos/gemini-4-argon/researchers-put-gemini-4-argon-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2112914740058181739) · [Details](prompts/google-181739.md)
+- [Starting from a single Nano Banana image, Gemini 4 Argon created this finished…](https://clawshelf.com/ai-videos/gemini-4-argon/starting-single-nano-banana-image-gemini?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2113353489938075794) · [Details](prompts/google-075794.md)
+- [Gemini 4 Argon combined three open-source datasets to build an interactive 3D v…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-combined-three-open?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@GoogleDeepMind](https://x.com/GoogleDeepMind/status/2112974723659247896) · [Details](prompts/googledeepmind-247896.md)
+- [Step inside 1,000-year-old ruins: see how Gemini 4 Argon turns fragmented archa…](https://clawshelf.com/ai-videos/gemini-4-argon/step-inside-1000-year-old-ruins?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2113005543623450865) · [Details](prompts/google-450865.md)
+- [Gemini 4 Argon is the new top model on Ramp Accounting Bench.](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-top-model-ramp?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@RampLabs](https://x.com/RampLabs/status/2112634814339706886) · [Details](prompts/ramplabs-706886.md)
+- [Gemini 4 Carbon - A Mechanical flower!](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-mechanical-flower?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@thtbee_](https://x.com/thtbee_/status/2112935205703147750) · [Prompt](prompts/thtbee-147750.md)
+- [An output from the updated Carbon checkpoint 😼](https://clawshelf.com/ai-videos/gemini-4-argon/output-updated-carbon-checkpoint?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Lentils80](https://x.com/Lentils80/status/2113246123959668854) · [Details](prompts/lentils80-668854.md)
+- [Gemini 4 Argon has just built a health AI app that is local and open source!](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-has-health-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@itsPaulAi](https://x.com/itsPaulAi/status/2112276833395962328) · [Details](prompts/itspaulai-962328.md)
+- [I asked Gemini 4 Argon to build the Shore Temple in Blender. The temple is appr…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-shore-temple-blender?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2113079526641258526) · [Details](prompts/ai-for-success-258526.md)
+- [Gemini 4 Carbon checkpoint in Arena vs. Opus 5.5 vs. GPT-6 Astra](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-checkpoint-arena-vs-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@AI_Screening](https://x.com/AI_Screening/status/2113184121883435047) · [Details](prompts/ai-screening-435047.md)
+- [Okay, Gemini 4 Argon is freaking good at this.](https://clawshelf.com/ai-videos/gemini-4-argon/okay-gemini-4-argon-freaking-good?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@SammmAing](https://x.com/SammmAing/status/2113098378942828632) · [Details](prompts/sammmaing-828632.md)
+- [Gemini 4 Carbon - Two Black Hole Horizons...](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-two-black-hole?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@thtbee_](https://x.com/thtbee_/status/2113301369826464147) · [Prompt](prompts/thtbee-464147.md)
+- [Multiplane occlusion. Use this technique to create an animation from a static i…](https://clawshelf.com/ai-videos/gemini-4-argon/multiplane-occlusion-use-technique-animation-static?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@_davideast](https://x.com/_davideast/status/2112932231270285730) · [Details](prompts/davideast-285730.md)
 - [Airport Flight Simulator](https://clawshelf.com/ai-videos/gemini-4-argon/airport-flight-simulator?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@yohakujpn](https://x.com/yohakujpn/status/2110769564074352813) · [Details](prompts/yohakujpn-352813.md)
 - [Thousand Sunny at Sunset](https://clawshelf.com/ai-videos/gemini-4-argon/thousand-sunny-sunset?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@SubhavMathur](https://x.com/SubhavMathur/status/2110858544077762620) · [Details](prompts/subhavmathur-762620.md)
 - [VroomX Toy Factory Grand Prix](https://clawshelf.com/ai-videos/gemini-4-argon/vroomx-toy-factory-grand-prix?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@moc_tx89](https://x.com/moc_tx89/status/2110979632019501329) · [Details](prompts/moc-tx89-501329.md)
@@ -89,24 +109,6 @@ _No entries yet — [submit one](https://github.com/billyhetech/awesome-gemini4-
 - [Japanese Pagoda — Google Demo Clip](https://clawshelf.com/ai-videos/gemini-4-argon/japanese-pagoda-google-demo-clip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@LexnLin](https://x.com/LexnLin/status/2110037860623794266) · [Details](prompts/lexnlin-794266.md)
 - [Code-Generated Interface Animation](https://clawshelf.com/ai-videos/gemini-4-argon/code-interface-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@YuanA41755085](https://x.com/YuanA41755085/status/2110038198877552800) · [Details](prompts/yuana41755085-552800.md)
 - [Jelly Koi Pond](https://clawshelf.com/ai-videos/gemini-4-argon/jelly-koi-pond?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@TimJayas](https://x.com/TimJayas/status/2110038238572515441) · [Details](prompts/timjayas-515441.md)
-- [Daisy Bell — Freehand SVG Spectrogram](https://clawshelf.com/ai-videos/gemini-4-argon/daisy-bell-freehand-svg-spectrogram?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@AdamHoltererer](https://x.com/AdamHoltererer/status/2110038787795689573) · [Details](prompts/adamholtererer-689573.md)
-- [Post Delivery Game with 2D Shaders](https://clawshelf.com/ai-videos/gemini-4-argon/post-delivery-game-2d-shaders?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@jerrod_lew](https://x.com/jerrod_lew/status/2110039176662122771) · [Details](prompts/jerrod-lew-122771.md)
-- [Generate a Personalized Retro Arcade Game](https://clawshelf.com/ai-videos/gemini-4-argon/generate-personalized-retro-arcade-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@GoogleAI](https://x.com/GoogleAI/status/2110039866788507709) · [Details](prompts/googleai-507709.md)
-- [Millennium Falcon Main Hold in Blender](https://clawshelf.com/ai-videos/gemini-4-argon/millennium-falcon-main-hold-blender?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@jackcheng](https://x.com/jackcheng/status/2110039909851685300) · [Prompt](prompts/jackcheng-685300.md)
-- [Interactive Island and Sailboat](https://clawshelf.com/ai-videos/gemini-4-argon/interactive-island-sailboat?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2110040063656812976) · [Details](prompts/ai-for-success-812976.md)
-- [High-Bypass Turbofan Jet Engine](https://clawshelf.com/ai-videos/gemini-4-argon/high-bypass-turbofan-jet-engine?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2110040065800097793) · [Details](prompts/ai-for-success-097793.md)
-- [Saab 900 Simulator in Blender and Godot](https://clawshelf.com/ai-videos/gemini-4-argon/saab-900-simulator-blender-godot?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@bijanbowen](https://x.com/bijanbowen/status/2110040526510534907) · [Details](prompts/bijanbowen-534907.md)
-- [Mario Game Test](https://clawshelf.com/ai-videos/gemini-4-argon/mario-game-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@benchmark_lb900](https://x.com/benchmark_lb900/status/2110040740315410940) · [Details](prompts/benchmark-lb900-410940.md)
-- [Interactive String Art Demonstration](https://clawshelf.com/ai-videos/gemini-4-argon/interactive-string-art-demonstration?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@vamsibatchuk](https://x.com/vamsibatchuk/status/2110040758996672602) · [Details](prompts/vamsibatchuk-672602.md)
-- [3D Hexaflexagon Mechanism](https://clawshelf.com/ai-videos/gemini-4-argon/3d-hexaflexagon-mechanism?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@AdamHoltererer](https://x.com/AdamHoltererer/status/2110040875355230718) · [Details](prompts/adamholtererer-230718.md)
-- [Banana Test](https://clawshelf.com/ai-videos/gemini-4-argon/banana-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@AdamHoltererer](https://x.com/AdamHoltererer/status/2110040909194621240) · [Details](prompts/adamholtererer-621240.md)
-- [Robot Arms Solving a Rubik's Cube](https://clawshelf.com/ai-videos/gemini-4-argon/robot-arms-solving-rubiks-cube?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2110040948638126557) · [Details](prompts/ai-for-success-126557.md)
-- [Wizard Chess with Animated Piece Battles](https://clawshelf.com/ai-videos/gemini-4-argon/wizard-chess-animated-piece-battles?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@demishassabis](https://x.com/demishassabis/status/2110041008100843835) · [Details](prompts/demishassabis-843835.md)
-- [Interactive Multi-Scene Animation and Music](https://clawshelf.com/ai-videos/gemini-4-argon/interactive-multi-scene-animation-music?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@googledevs](https://x.com/googledevs/status/2110041044989751325) · [Details](prompts/googledevs-751325.md)
-- [Fourier Epicycles — Einstein](https://clawshelf.com/ai-videos/gemini-4-argon/fourier-epicycles-einstein?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@osanseviero](https://x.com/osanseviero/status/2110041055286448560) · [Details](prompts/osanseviero-448560.md)
-- [Butterfly Museum with Five Specimens](https://clawshelf.com/ai-videos/gemini-4-argon/butterfly-museum-five-specimens?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@doe_naps](https://x.com/doe_naps/status/2110041557021950348) · [Details](prompts/doe-naps-950348.md)
-- [Code Painting — Flowers at Sunset](https://clawshelf.com/ai-videos/gemini-4-argon/code-painting-flowers-sunset?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@kickingkeys](https://x.com/kickingkeys/status/2110041607777206296) · [Details](prompts/kickingkeys-206296.md)
-- [Desk Racer — A Home Office Racing Game](https://clawshelf.com/ai-videos/gemini-4-argon/desk-racer-home-office-racing-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@genevieve__h](https://x.com/genevieve__h/status/2110041611455353197) · [Details](prompts/genevieve-h-353197.md)
 
 ## How to use a prompt
 
