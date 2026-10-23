@@ -9045,5 +9045,45 @@
    "bytes": 2969139,
    "synced_at": "2026-10-23"
   }
+ },
+ {
+  "slug": "googledeepmind-575623",
+  "seo_slug": "single-nano-banana-image-blender-mcp",
+  "model": "gemini-4-argon",
+  "author": "GoogleDeepMind",
+  "author_url": "https://x.com/GoogleDeepMind",
+  "post_url": "https://x.com/GoogleDeepMind/status/2113645959762575623",
+  "title": "Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Got…",
+  "category": "motion",
+  "tech_tags": [
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 40344,
+   "captured_at": "2026-10-23"
+  }
+ },
+ {
+  "slug": "k2sbhai-174878",
+  "seo_slug": "claude-opus-5-5-gemini-4-argon",
+  "model": "gemini-4-argon",
+  "author": "k2sbhai",
+  "author_url": "https://x.com/k2sbhai",
+  "post_url": "https://x.com/k2sbhai/status/2113563309635174878",
+  "title": "Claude Opus 5.5 and Gemini 4 Argon for FREE 😳",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-23",
+  "stats_snapshot": {
+   "views": 33555,
+   "captured_at": "2026-10-23"
+  }
  }
 ]

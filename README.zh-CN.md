@@ -7,7 +7,7 @@
 
 用 **Gemini 4 Argon**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 321 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ 在 clawshelf.com 观看全部 323 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **61 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-23):共 321 条
+- 最近更新(2026-10-23):共 323 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (88)
+- [动态图形](#动态图形) (90)
 - [讲解动画](#讲解动画) (0)
 - [3D 场景](#3d-场景) (106)
 - [游戏与交互](#游戏与交互) (124)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/okay-gemini-4-argon-freaking-good?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/sammmaing-828632/preview.webp" alt="Gemini 4 Argon video by @SammmAing" width="100%"></a><br><a href="https://x.com/SammmAing/status/2113098378942828632"><b>@SammmAing</b></a> · <a href="prompts/sammmaing-828632.md">详情</a><br><sub>Canvas · 17K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/multiplane-occlusion-use-technique-animation-static?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/davideast-285730/preview.webp" alt="Gemini 4 Argon video by @_davideast" width="100%"></a><br><a href="https://x.com/_davideast/status/2112932231270285730"><b>@_davideast</b></a> · <a href="prompts/davideast-285730.md">详情</a><br><sub>Canvas · 14K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/534-code-paintings?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/kickingkeys-180633/preview.webp" alt="Gemini 4 Argon video by @kickingkeys" width="100%"></a><br><a href="https://x.com/kickingkeys/status/2110037855452180633"><b>@kickingkeys</b></a> · <a href="prompts/kickingkeys-180633.md">详情</a><br><sub>Canvas</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 88 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 90 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
 
 ## 讲解动画
 
@@ -90,6 +90,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Step inside 1,000-year-old ruins: see how Gemini 4 Argon turns fragmented archa…](https://clawshelf.com/ai-videos/gemini-4-argon/step-inside-1000-year-old-ruins?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2113005543623450865) · [详情](prompts/google-450865.md)
 - [Gemini 4 Argon is the new top model on Ramp Accounting Bench.](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-top-model-ramp?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@RampLabs](https://x.com/RampLabs/status/2112634814339706886) · [详情](prompts/ramplabs-706886.md)
 - [Gemini 4 Carbon - A Mechanical flower!](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-mechanical-flower?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@thtbee_](https://x.com/thtbee_/status/2112935205703147750) · [提示词](prompts/thtbee-147750.md)
+- [Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Got…](https://clawshelf.com/ai-videos/gemini-4-argon/single-nano-banana-image-blender-mcp?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@GoogleDeepMind](https://x.com/GoogleDeepMind/status/2113645959762575623) · [详情](prompts/googledeepmind-575623.md)
+- [Claude Opus 5.5 and Gemini 4 Argon for FREE 😳](https://clawshelf.com/ai-videos/gemini-4-argon/claude-opus-5-5-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@k2sbhai](https://x.com/k2sbhai/status/2113563309635174878) · [详情](prompts/k2sbhai-174878.md)
 - [An output from the updated Carbon checkpoint 😼](https://clawshelf.com/ai-videos/gemini-4-argon/output-updated-carbon-checkpoint?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Lentils80](https://x.com/Lentils80/status/2113246123959668854) · [详情](prompts/lentils80-668854.md)
 - [Gemini 4 Argon has just built a health AI app that is local and open source!](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-has-health-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@itsPaulAi](https://x.com/itsPaulAi/status/2112276833395962328) · [详情](prompts/itspaulai-962328.md)
 - [I asked Gemini 4 Argon to build the Shore Temple in Blender. The temple is appr…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-shore-temple-blender?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2113079526641258526) · [详情](prompts/ai-for-success-258526.md)
@@ -107,8 +109,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Animated Personal Website](https://clawshelf.com/ai-videos/gemini-4-argon/animated-personal-website?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@LexnLin](https://x.com/LexnLin/status/2110037859294159072) · [提示词](prompts/lexnlin-159072.md)
 - [The Architect of Paper and Light](https://clawshelf.com/ai-videos/gemini-4-argon/architect-paper-light?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@LexnLin](https://x.com/LexnLin/status/2110037859969491186) · [详情](prompts/lexnlin-491186.md)
 - [Japanese Pagoda — Google Demo Clip](https://clawshelf.com/ai-videos/gemini-4-argon/japanese-pagoda-google-demo-clip?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@LexnLin](https://x.com/LexnLin/status/2110037860623794266) · [详情](prompts/lexnlin-794266.md)
-- [Code-Generated Interface Animation](https://clawshelf.com/ai-videos/gemini-4-argon/code-interface-animation?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@YuanA41755085](https://x.com/YuanA41755085/status/2110038198877552800) · [详情](prompts/yuana41755085-552800.md)
-- [Jelly Koi Pond](https://clawshelf.com/ai-videos/gemini-4-argon/jelly-koi-pond?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@TimJayas](https://x.com/TimJayas/status/2110038238572515441) · [详情](prompts/timjayas-515441.md)
 
 ## 如何使用 prompt
 
