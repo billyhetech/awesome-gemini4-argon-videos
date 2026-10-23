@@ -9064,6 +9064,18 @@
   "stats_snapshot": {
    "views": 40344,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledeepmind-575623/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledeepmind-575623/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledeepmind-575623/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledeepmind-575623/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 43833,
+   "bytes": 7036666,
+   "synced_at": "2026-10-23"
   }
  },
  {
@@ -9084,6 +9096,18 @@
   "stats_snapshot": {
    "views": 33555,
    "captured_at": "2026-10-23"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/k2sbhai-174878/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/k2sbhai-174878/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/k2sbhai-174878/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/k2sbhai-174878/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10266,
+   "bytes": 1159109,
+   "synced_at": "2026-10-23"
   }
  }
 ]
