@@ -9128,6 +9128,18 @@
   "stats_snapshot": {
    "views": 20217,
    "captured_at": "2026-10-24"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thtbee-464549/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thtbee-464549/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thtbee-464549/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/thtbee-464549/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 40244,
+   "bytes": 5187371,
+   "synced_at": "2026-10-24"
   }
  }
 ]
