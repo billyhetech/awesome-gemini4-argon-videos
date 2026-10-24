@@ -9109,5 +9109,25 @@
    "bytes": 1159109,
    "synced_at": "2026-10-23"
   }
+ },
+ {
+  "slug": "thtbee-464549",
+  "seo_slug": "gemini-4-carbon-ethereal-cloudy-cat",
+  "model": "gemini-4-argon",
+  "author": "thtbee_",
+  "author_url": "https://x.com/thtbee_",
+  "post_url": "https://x.com/thtbee_/status/2113662031379464549",
+  "title": "Gemini 4 Carbon - An Ethereal Cloudy Cat!",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 20217,
+   "captured_at": "2026-10-24"
+  }
  }
 ]
