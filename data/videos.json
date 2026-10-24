@@ -9141,5 +9141,25 @@
    "bytes": 5187371,
    "synced_at": "2026-10-24"
   }
+ },
+ {
+  "slug": "robocurve-697613",
+  "seo_slug": "kimi-k3-1-pro-scores-9",
+  "model": "gemini-4-argon",
+  "author": "robocurve",
+  "author_url": "https://x.com/robocurve",
+  "post_url": "https://x.com/robocurve/status/2113827780798697613",
+  "title": "Kimi K3.1 Pro scores 9% on real-robot tasks, behind Opus 5.5, Gemini 4 Argon an…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-24",
+  "stats_snapshot": {
+   "views": 67239,
+   "captured_at": "2026-10-24"
+  }
  }
 ]
