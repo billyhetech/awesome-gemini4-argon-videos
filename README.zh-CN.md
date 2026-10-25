@@ -7,7 +7,7 @@
 
 用 **Gemini 4 Argon**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 326 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ 在 clawshelf.com 观看全部 327 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,14 +15,14 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **62 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-25):共 326 条
+- 最近更新(2026-10-25):共 327 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
 - [动态图形](#动态图形) (92)
 - [讲解动画](#讲解动画) (0)
-- [3D 场景](#3d-场景) (107)
+- [3D 场景](#3d-场景) (108)
 - [游戏与交互](#游戏与交互) (124)
 - [长片](#长片) (2)
 - [音乐视频](#音乐视频) (1)
@@ -52,7 +52,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/millennium-falcon-main-hold-blender?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/jackcheng-685300/preview.webp" alt="Gemini 4 Argon video by @jackcheng" width="100%"></a><br><a href="https://x.com/jackcheng/status/2110039909851685300"><b>@jackcheng</b></a> · <a href="prompts/jackcheng-685300.md">提示词</a><br><sub>Blender</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/interactive-island-sailboat?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-for-success-812976/preview.webp" alt="Gemini 4 Argon video by @ai_for_success" width="100%"></a><br><a href="https://x.com/ai_for_success/status/2110040063656812976"><b>@ai_for_success</b></a> · <a href="prompts/ai-for-success-812976.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/high-bypass-turbofan-jet-engine?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-for-success-097793/preview.webp" alt="Gemini 4 Argon video by @ai_for_success" width="100%"></a><br><a href="https://x.com/ai_for_success/status/2110040065800097793"><b>@ai_for_success</b></a> · <a href="prompts/ai-for-success-097793.md">详情</a><br><sub>Three.js · Blender</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 107 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=3d-scenes)
+[▶ 在 clawshelf.com 查看全部 108 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=3d-scenes)
 
 ## 游戏与交互
 
@@ -80,6 +80,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 ## 最新收录
 
 - [I gave Kimi K3.1 Pro, Gemini 4 Argon, and Fable 5.1 the exact same prompt:](https://clawshelf.com/ai-videos/gemini-4-argon/gave-kimi-k3-1-pro-gemini?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@glitch_catAI](https://x.com/glitch_catAI/status/2113981829984460925) · [提示词](prompts/glitch-catai-460925.md)
+- [Gemini 4 Carbon - a dynamic Ink-wash story!!](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-dynamic-ink-wash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@thtbee_](https://x.com/thtbee_/status/2114030630887641448) · [详情](prompts/thtbee-641448.md)
 - [Kimi K3.1 Pro scores 9% on real-robot tasks, behind Opus 5.5, Gemini 4 Argon an…](https://clawshelf.com/ai-videos/gemini-4-argon/kimi-k3-1-pro-scores-9?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@robocurve](https://x.com/robocurve/status/2113827780798697613) · [详情](prompts/robocurve-697613.md)
 - [Gemini 4 Carbon - An Ethereal Cloudy Cat!](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-ethereal-cloudy-cat?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@thtbee_](https://x.com/thtbee_/status/2113662031379464549) · [详情](prompts/thtbee-464549.md)
 - [With Gemini 4 Argon, any builder can transform physical spaces into interactive…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-any-builder-can?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2112199261899411579) · [详情](prompts/google-411579.md)
@@ -108,7 +109,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Aero-Raptor Mechanical Hawk](https://clawshelf.com/ai-videos/gemini-4-argon/aero-raptor-mechanical-hawk?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@eiichi292929](https://x.com/eiichi292929/status/2111031676730245466) · [详情](prompts/eiichi292929-245466.md)
 - [Interactive Transparent Sushi Box](https://clawshelf.com/ai-videos/gemini-4-argon/interactive-transparent-sushi-box?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ann_nnng](https://x.com/ann_nnng/status/2111071463155564733) · [详情](prompts/ann-nnng-564733.md)
 - [534 Code Paintings](https://clawshelf.com/ai-videos/gemini-4-argon/534-code-paintings?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@kickingkeys](https://x.com/kickingkeys/status/2110037855452180633) · [详情](prompts/kickingkeys-180633.md)
-- [Procedural Three.js Alpine Town](https://clawshelf.com/ai-videos/gemini-4-argon/procedural-three-js-alpine-town?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@LexnLin](https://x.com/LexnLin/status/2110037856588845536) · [详情](prompts/lexnlin-845536.md)
 
 ## 如何使用 prompt
 
