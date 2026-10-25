@@ -9192,6 +9192,18 @@
   "stats_snapshot": {
    "views": 66982,
    "captured_at": "2026-10-25"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/poster.jpg",
+   "width": 720,
+   "height": 1280,
+   "duration_ms": 10000,
+   "bytes": 977193,
+   "synced_at": "2026-10-25"
   }
  }
 ]
