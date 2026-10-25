@@ -9173,5 +9173,25 @@
    "bytes": 407280,
    "synced_at": "2026-10-24"
   }
+ },
+ {
+  "slug": "glitch-catai-460925",
+  "seo_slug": "gave-kimi-k3-1-pro-gemini",
+  "model": "gemini-4-argon",
+  "author": "glitch_catAI",
+  "author_url": "https://x.com/glitch_catAI",
+  "post_url": "https://x.com/glitch_catAI/status/2113981829984460925",
+  "title": "I gave Kimi K3.1 Pro, Gemini 4 Argon, and Fable 5.1 the exact same prompt:",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "“Generate a 10-second video of a plane landing at sunset.”\n\nOne prompt. Three models. The results might hurt some feelings. 💀💀💀 https://t.co/iccf3eAwpT",
+  "prompt_partial": false,
+  "added": "2026-10-25",
+  "stats_snapshot": {
+   "views": 66982,
+   "captured_at": "2026-10-25"
+  }
  }
 ]
