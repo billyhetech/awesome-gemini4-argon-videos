@@ -9256,6 +9256,18 @@
   "stats_snapshot": {
    "views": 164856,
    "captured_at": "2026-10-26"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/wenhaocha1-205413/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/wenhaocha1-205413/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/wenhaocha1-205413/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/wenhaocha1-205413/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 4833,
+   "bytes": 204139,
+   "synced_at": "2026-10-26"
   }
  },
  {
@@ -9276,6 +9288,18 @@
   "stats_snapshot": {
    "views": 39270,
    "captured_at": "2026-10-26"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/onloglogn-540407/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/onloglogn-540407/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/onloglogn-540407/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/onloglogn-540407/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 10000,
+   "bytes": 522716,
+   "synced_at": "2026-10-26"
   }
  },
  {
@@ -9296,6 +9320,18 @@
   "stats_snapshot": {
    "views": 32752,
    "captured_at": "2026-10-26"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googlegemma-253305/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googlegemma-253305/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googlegemma-253305/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googlegemma-253305/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 30000,
+   "bytes": 2138185,
+   "synced_at": "2026-10-26"
   }
  }
 ]
