@@ -9237,5 +9237,65 @@
    "bytes": 4743232,
    "synced_at": "2026-10-25"
   }
+ },
+ {
+  "slug": "wenhaocha1-205413",
+  "seo_slug": "gemini-4-argon-underrated",
+  "model": "gemini-4-argon",
+  "author": "wenhaocha1",
+  "author_url": "https://x.com/wenhaocha1",
+  "post_url": "https://x.com/wenhaocha1/status/2114559544156205413",
+  "title": "Gemini 4 Argon is underrated 😱.",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 164856,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "onloglogn-540407",
+  "seo_slug": "gemini-4-argon",
+  "model": "gemini-4-argon",
+  "author": "onloglogn",
+  "author_url": "https://x.com/onloglogn",
+  "post_url": "https://x.com/onloglogn/status/2114624056385540407",
+  "title": "🚨Gemini 4 Argon with",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 39270,
+   "captured_at": "2026-10-26"
+  }
+ },
+ {
+  "slug": "googlegemma-253305",
+  "seo_slug": "speeding-up-gemma",
+  "model": "gemini-4-argon",
+  "author": "googlegemma",
+  "author_url": "https://x.com/googlegemma",
+  "post_url": "https://x.com/googlegemma/status/2114757896563253305",
+  "title": "Speeding up Gemma!",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-26",
+  "stats_snapshot": {
+   "views": 32752,
+   "captured_at": "2026-10-26"
+  }
  }
 ]
