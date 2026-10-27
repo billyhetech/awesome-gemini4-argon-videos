@@ -9353,6 +9353,18 @@
   "stats_snapshot": {
    "views": 29618,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledevs-225731/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledevs-225731/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledevs-225731/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/googledevs-225731/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 107566,
+   "bytes": 12774193,
+   "synced_at": "2026-10-27"
   }
  },
  {
@@ -9373,6 +9385,18 @@
   "stats_snapshot": {
    "views": 16522,
    "captured_at": "2026-10-27"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-for-success-806208/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-for-success-806208/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-for-success-806208/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/ai-for-success-806208/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 4833,
+   "bytes": 204139,
+   "synced_at": "2026-10-27"
   }
  }
 ]
