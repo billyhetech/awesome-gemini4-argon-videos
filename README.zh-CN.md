@@ -7,7 +7,7 @@
 
 用 **Gemini 4 Argon**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 330 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ 在 clawshelf.com 观看全部 332 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,15 +15,15 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **62 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-26):共 330 条
+- 最近更新(2026-10-27):共 332 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (95)
+- [动态图形](#动态图形) (96)
 - [讲解动画](#讲解动画) (0)
 - [3D 场景](#3d-场景) (108)
-- [游戏与交互](#游戏与交互) (124)
+- [游戏与交互](#游戏与交互) (125)
 - [长片](#长片) (2)
 - [音乐视频](#音乐视频) (1)
 - [最新收录](#最新收录)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/single-nano-banana-image-blender-mcp?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/googledeepmind-575623/preview.webp" alt="Gemini 4 Argon video by @GoogleDeepMind" width="100%"></a><br><a href="https://x.com/GoogleDeepMind/status/2113645959762575623"><b>@GoogleDeepMind</b></a> · <a href="prompts/googledeepmind-575623.md">详情</a><br><sub>Blender · 40K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/onloglogn-540407/preview.webp" alt="Gemini 4 Argon video by @onloglogn" width="100%"></a><br><a href="https://x.com/onloglogn/status/2114624056385540407"><b>@onloglogn</b></a> · <a href="prompts/onloglogn-540407.md">详情</a><br><sub>Canvas · 39K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/claude-opus-5-5-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/k2sbhai-174878/preview.webp" alt="Gemini 4 Argon video by @k2sbhai" width="100%"></a><br><a href="https://x.com/k2sbhai/status/2113563309635174878"><b>@k2sbhai</b></a> · <a href="prompts/k2sbhai-174878.md">详情</a><br><sub>Canvas · 34K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 95 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 96 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
 
 ## 讲解动画
 
@@ -63,7 +63,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/interactive-museum-apple-computers?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/venturetwins-527253/preview.webp" alt="Gemini 4 Argon video by @venturetwins" width="100%"></a><br><a href="https://x.com/venturetwins/status/2110041613179527253"><b>@venturetwins</b></a> · <a href="prompts/venturetwins-527253.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/aurora-theme-switcher-flutter?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/ulusoyapps-881608/preview.webp" alt="Gemini 4 Argon video by @ulusoyapps" width="100%"></a><br><a href="https://x.com/ulusoyapps/status/2110045173723881608"><b>@ulusoyapps</b></a> · <a href="prompts/ulusoyapps-881608.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/dot-test-character-sprite-transformations?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/benchmark-lb900-411588/preview.webp" alt="Gemini 4 Argon video by @benchmark_lb900" width="100%"></a><br><a href="https://x.com/benchmark_lb900/status/2110045947275411588"><b>@benchmark_lb900</b></a> · <a href="prompts/benchmark-lb900-411588.md">详情</a><br><sub>Canvas</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 124 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
+[▶ 在 clawshelf.com 查看全部 125 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
 
 ## 长片
 
@@ -79,6 +79,8 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Automating the asset pipeline with Gemini 4 Argon 🐬](https://clawshelf.com/ai-videos/gemini-4-argon/automating-asset-pipeline-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@googledevs](https://x.com/googledevs/status/2114839491349225731) · [详情](prompts/googledevs-225731.md)
+- [Gemini 4 Argon is performing extremely well with Antigravity. For the first tim…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-performing-extremely-well?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2114584610562806208) · [详情](prompts/ai-for-success-806208.md)
 - [Gemini 4 Argon is underrated 😱.](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-underrated?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@wenhaocha1](https://x.com/wenhaocha1/status/2114559544156205413) · [详情](prompts/wenhaocha1-205413.md)
 - [🚨Gemini 4 Argon with](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@onloglogn](https://x.com/onloglogn/status/2114624056385540407) · [详情](prompts/onloglogn-540407.md)
 - [Speeding up Gemma!](https://clawshelf.com/ai-videos/gemini-4-argon/speeding-up-gemma?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@googlegemma](https://x.com/googlegemma/status/2114757896563253305) · [详情](prompts/googlegemma-253305.md)
@@ -107,8 +109,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Gemini 4 Carbon - Two Black Hole Horizons...](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-two-black-hole?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@thtbee_](https://x.com/thtbee_/status/2113301369826464147) · [提示词](prompts/thtbee-464147.md)
 - [Multiplane occlusion. Use this technique to create an animation from a static i…](https://clawshelf.com/ai-videos/gemini-4-argon/multiplane-occlusion-use-technique-animation-static?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@_davideast](https://x.com/_davideast/status/2112932231270285730) · [详情](prompts/davideast-285730.md)
 - [Airport Flight Simulator](https://clawshelf.com/ai-videos/gemini-4-argon/airport-flight-simulator?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@yohakujpn](https://x.com/yohakujpn/status/2110769564074352813) · [详情](prompts/yohakujpn-352813.md)
-- [Thousand Sunny at Sunset](https://clawshelf.com/ai-videos/gemini-4-argon/thousand-sunny-sunset?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@SubhavMathur](https://x.com/SubhavMathur/status/2110858544077762620) · [详情](prompts/subhavmathur-762620.md)
-- [VroomX Toy Factory Grand Prix](https://clawshelf.com/ai-videos/gemini-4-argon/vroomx-toy-factory-grand-prix?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@moc_tx89](https://x.com/moc_tx89/status/2110979632019501329) · [详情](prompts/moc-tx89-501329.md)
 
 ## 如何使用 prompt
 

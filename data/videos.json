@@ -9333,5 +9333,46 @@
    "bytes": 2138185,
    "synced_at": "2026-10-26"
   }
+ },
+ {
+  "slug": "googledevs-225731",
+  "seo_slug": "automating-asset-pipeline-gemini-4-argon",
+  "model": "gemini-4-argon",
+  "author": "googledevs",
+  "author_url": "https://x.com/googledevs",
+  "post_url": "https://x.com/googledevs/status/2114839491349225731",
+  "title": "Automating the asset pipeline with Gemini 4 Argon 🐬",
+  "category": "games-interactive",
+  "tech_tags": [
+   "glsl",
+   "blender"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 29618,
+   "captured_at": "2026-10-27"
+  }
+ },
+ {
+  "slug": "ai-for-success-806208",
+  "seo_slug": "gemini-4-argon-performing-extremely-well",
+  "model": "gemini-4-argon",
+  "author": "ai_for_success",
+  "author_url": "https://x.com/ai_for_success",
+  "post_url": "https://x.com/ai_for_success/status/2114584610562806208",
+  "title": "Gemini 4 Argon is performing extremely well with Antigravity. For the first tim…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-27",
+  "stats_snapshot": {
+   "views": 16522,
+   "captured_at": "2026-10-27"
+  }
  }
 ]
