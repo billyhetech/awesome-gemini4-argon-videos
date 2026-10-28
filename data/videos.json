@@ -9398,5 +9398,45 @@
    "bytes": 204139,
    "synced_at": "2026-10-27"
   }
+ },
+ {
+  "slug": "kimmonismus-334230",
+  "seo_slug": "long-awaited-genie-4",
+  "model": "gemini-4-argon",
+  "author": "kimmonismus",
+  "author_url": "https://x.com/kimmonismus",
+  "post_url": "https://x.com/kimmonismus/status/2115124818165334230",
+  "title": "The long awaited Genie 4 is here!",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 25388,
+   "captured_at": "2026-10-28"
+  }
+ },
+ {
+  "slug": "cdgalpha-737879",
+  "seo_slug": "deepseek-v4-1-flash-free",
+  "model": "gemini-4-argon",
+  "author": "CDGalpha",
+  "author_url": "https://x.com/CDGalpha",
+  "post_url": "https://x.com/CDGalpha/status/2114966726584737879",
+  "title": "DeepSeek V4.1 Flash for FREE 😉",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-28",
+  "stats_snapshot": {
+   "views": 20322,
+   "captured_at": "2026-10-28"
+  }
  }
 ]
