@@ -7,23 +7,23 @@
 
 用 **Gemini 4 Argon**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 336 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ 在 clawshelf.com 观看全部 339 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
 其他单模型专集:[Opus 5.5](https://github.com/billyhetech/awesome-opus5-5-videos) · [Seedance 2.5](https://github.com/billyhetech/awesome-seedance2-5-videos) · [MiniMax H3](https://github.com/billyhetech/awesome-minimax-h3-videos) · [Fable 5.5](https://github.com/billyhetech/awesome-fable5-5-videos) · [Grok Imagine](https://github.com/billyhetech/awesome-grok-imagine-videos) · [GPT-6 Astra](https://github.com/billyhetech/awesome-gpt6-astra-videos) · [Kling 4.0](https://github.com/billyhetech/awesome-kling4-videos)
 
-[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **62 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
+[`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **63 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-29):共 336 条
+- 最近更新(2026-10-29):共 339 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (100)
+- [动态图形](#动态图形) (102)
 - [讲解动画](#讲解动画) (0)
 - [3D 场景](#3d-场景) (108)
-- [游戏与交互](#游戏与交互) (125)
+- [游戏与交互](#游戏与交互) (126)
 - [长片](#长片) (2)
 - [音乐视频](#音乐视频) (1)
 - [最新收录](#最新收录)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/single-nano-banana-image-blender-mcp?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/googledeepmind-575623/preview.webp" alt="Gemini 4 Argon video by @GoogleDeepMind" width="100%"></a><br><a href="https://x.com/GoogleDeepMind/status/2113645959762575623"><b>@GoogleDeepMind</b></a> · <a href="prompts/googledeepmind-575623.md">详情</a><br><sub>Blender · 40K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/onloglogn-540407/preview.webp" alt="Gemini 4 Argon video by @onloglogn" width="100%"></a><br><a href="https://x.com/onloglogn/status/2114624056385540407"><b>@onloglogn</b></a> · <a href="prompts/onloglogn-540407.md">详情</a><br><sub>Canvas · 39K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/might-one-wildest-use-cases-gemini?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/thebuggeddev-550344/preview.webp" alt="Gemini 4 Argon video by @thebuggeddev" width="100%"></a><br><a href="https://x.com/thebuggeddev/status/2115425928503550344"><b>@thebuggeddev</b></a> · <a href="prompts/thebuggeddev-550344.md">详情</a><br><sub>Canvas · 36K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 100 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 102 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
 
 ## 讲解动画
 
@@ -63,7 +63,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/desk-racer-home-office-racing-game?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/genevieve-h-353197/preview.webp" alt="Gemini 4 Argon video by @genevieve__h" width="100%"></a><br><a href="https://x.com/genevieve__h/status/2110041611455353197"><b>@genevieve__h</b></a> · <a href="prompts/genevieve-h-353197.md">详情</a><br><sub>Three.js · Blender · Playable</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/interactive-museum-apple-computers?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/venturetwins-527253/preview.webp" alt="Gemini 4 Argon video by @venturetwins" width="100%"></a><br><a href="https://x.com/venturetwins/status/2110041613179527253"><b>@venturetwins</b></a> · <a href="prompts/venturetwins-527253.md">详情</a><br><sub>Canvas</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/aurora-theme-switcher-flutter?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/ulusoyapps-881608/preview.webp" alt="Gemini 4 Argon video by @ulusoyapps" width="100%"></a><br><a href="https://x.com/ulusoyapps/status/2110045173723881608"><b>@ulusoyapps</b></a> · <a href="prompts/ulusoyapps-881608.md">详情</a><br><sub>Canvas</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 125 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
+[▶ 在 clawshelf.com 查看全部 126 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=games-interactive)
 
 ## 长片
 
@@ -79,7 +79,10 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 
 ## 最新收录
 
+- [Google is doubling the price of Gemini 4 Argon and Gemini 3.8 Flash](https://clawshelf.com/ai-videos/gemini-4-argon/google-doubling-price-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@AdamHoltererer](https://x.com/AdamHoltererer/status/2115755508485267650) · [详情](prompts/adamholtererer-267650.md)
 - [This might be one of the wildest use cases for Gemini 4 Argon ☠️](https://clawshelf.com/ai-videos/gemini-4-argon/might-one-wildest-use-cases-gemini?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@thebuggeddev](https://x.com/thebuggeddev/status/2115425928503550344) · [详情](prompts/thebuggeddev-550344.md)
+- [First impressions of Gemini 4 Carbon’s preview by are in. just put it through a…](https://clawshelf.com/ai-videos/gemini-4-argon/first-impressions-gemini-4-carbons-preview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@arena](https://x.com/arena/status/2115533649395503204) · [提示词](prompts/arena-503204.md)
+- [Gpt 6.1 Terra 在AA 智能指数上击败了 gemini 4 Argon](https://clawshelf.com/ai-videos/gemini-4-argon/gpt-6-1-terra-aa-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@leo114119](https://x.com/leo114119/status/2115369269655638247) · [详情](prompts/leo114119-638247.md)
 - [Gemini 4 Carbon checkpoint in Arena vs. Gemini 4 Argon: Bentley convertible dri…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-checkpoint-arena-vs-by-ai-screening?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@AI_Screening](https://x.com/AI_Screening/status/2115501232634859992) · [详情](prompts/ai-screening-859992.md)
 - [The long awaited Genie 4 is here!](https://clawshelf.com/ai-videos/gemini-4-argon/long-awaited-genie-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@kimmonismus](https://x.com/kimmonismus/status/2115124818165334230) · [详情](prompts/kimmonismus-334230.md)
 - [DeepSeek V4.1 Flash for FREE 😉](https://clawshelf.com/ai-videos/gemini-4-argon/deepseek-v4-1-flash-free?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@CDGalpha](https://x.com/CDGalpha/status/2114966726584737879) · [详情](prompts/cdgalpha-737879.md)
@@ -106,9 +109,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Using a single Nano Banana image and Blender MCP, Gemini 4 Argon built a 3D Got…](https://clawshelf.com/ai-videos/gemini-4-argon/single-nano-banana-image-blender-mcp?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@GoogleDeepMind](https://x.com/GoogleDeepMind/status/2113645959762575623) · [详情](prompts/googledeepmind-575623.md)
 - [Claude Opus 5.5 and Gemini 4 Argon for FREE 😳](https://clawshelf.com/ai-videos/gemini-4-argon/claude-opus-5-5-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@k2sbhai](https://x.com/k2sbhai/status/2113563309635174878) · [详情](prompts/k2sbhai-174878.md)
 - [An output from the updated Carbon checkpoint 😼](https://clawshelf.com/ai-videos/gemini-4-argon/output-updated-carbon-checkpoint?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Lentils80](https://x.com/Lentils80/status/2113246123959668854) · [详情](prompts/lentils80-668854.md)
-- [Gemini 4 Argon has just built a health AI app that is local and open source!](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-has-health-ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@itsPaulAi](https://x.com/itsPaulAi/status/2112276833395962328) · [详情](prompts/itspaulai-962328.md)
-- [I asked Gemini 4 Argon to build the Shore Temple in Blender. The temple is appr…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-shore-temple-blender?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@ai_for_success](https://x.com/ai_for_success/status/2113079526641258526) · [详情](prompts/ai-for-success-258526.md)
-- [Gemini 4 Carbon checkpoint in Arena vs. Opus 5.5 vs. GPT-6 Astra](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-checkpoint-arena-vs-2?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@AI_Screening](https://x.com/AI_Screening/status/2113184121883435047) · [详情](prompts/ai-screening-435047.md)
 
 ## 如何使用 prompt
 

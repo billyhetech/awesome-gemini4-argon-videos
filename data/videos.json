@@ -9526,5 +9526,65 @@
    "bytes": 2069140,
    "synced_at": "2026-10-29"
   }
+ },
+ {
+  "slug": "adamholtererer-267650",
+  "seo_slug": "google-doubling-price-gemini-4-argon",
+  "model": "gemini-4-argon",
+  "author": "AdamHoltererer",
+  "author_url": "https://x.com/AdamHoltererer",
+  "post_url": "https://x.com/AdamHoltererer/status/2115755508485267650",
+  "title": "Google is doubling the price of Gemini 4 Argon and Gemini 3.8 Flash",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 51384,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "arena-503204",
+  "seo_slug": "first-impressions-gemini-4-carbons-preview",
+  "model": "gemini-4-argon",
+  "author": "arena",
+  "author_url": "https://x.com/arena",
+  "post_url": "https://x.com/arena/status/2115533649395503204",
+  "title": "First impressions of Gemini 4 Carbon’s preview by are in. just put it through a…",
+  "category": "games-interactive",
+  "tech_tags": [
+   "playable"
+  ],
+  "prompt": "Carbon vs Opus, Sol, Muse, DeepSeek\n26:27 London through the ages\n29:56 Istanbul\n31:44 Harbin ice city\n33:20 New test: visual explainers (how lightning works)\n35:34 John Snow and the cholera map\n38:20 UI work\n39:45 Golden Gate Bridge completion animation\n40:43 More UI generations\n41:55 Ski resort site and ramen ordering\n44:20 Verdict",
+  "prompt_partial": false,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 34651,
+   "captured_at": "2026-10-29"
+  }
+ },
+ {
+  "slug": "leo114119-638247",
+  "seo_slug": "gpt-6-1-terra-aa-gemini-4",
+  "model": "gemini-4-argon",
+  "author": "leo114119",
+  "author_url": "https://x.com/leo114119",
+  "post_url": "https://x.com/leo114119/status/2115369269655638247",
+  "title": "Gpt 6.1 Terra 在AA 智能指数上击败了 gemini 4 Argon",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-29",
+  "stats_snapshot": {
+   "views": 25315,
+   "captured_at": "2026-10-29"
+  }
  }
 ]
