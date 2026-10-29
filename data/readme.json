@@ -1,6 +1,6 @@
 {
  "mosaic": {
-  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gemini4-argon-videos/mosaic.1f4ceb1e6e.webp",
+  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gemini4-argon-videos/mosaic.ab8468e975.webp",
   "width": 1920,
   "height": 1080,
   "slugs": [
@@ -13,13 +13,16 @@
    "ramplabs-706886",
    "robocurve-697613",
    "glitch-catai-460925",
+   "adamholtererer-267650",
    "thtbee-147750",
    "onloglogn-540407",
    "thebuggeddev-550344",
+   "arena-503204",
    "k2sbhai-174878",
    "googlegemma-253305",
    "googledevs-225731",
    "kimmonismus-334230",
+   "leo114119-638247",
    "lentils80-668854",
    "itspaulai-962328",
    "ai-screening-859992",
@@ -42,7 +45,6 @@
    "bijanbowen-534907",
    "benchmark-lb900-410940",
    "vamsibatchuk-672602",
-   "adamholtererer-230718",
    "demishassabis-843835",
    "googledevs-751325",
    "osanseviero-448560",
@@ -109,9 +111,7 @@
    "0xbenderxbt-881599",
    "doe-naps-692354",
    "haleeeemahh-534238",
-   "procesor-x-262850",
-   "analogalok-036542",
-   "venturetwins-206611"
+   "procesor-x-262850"
   ]
  }
 }
