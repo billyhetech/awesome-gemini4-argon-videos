@@ -9654,5 +9654,68 @@
    "bytes": 967011,
    "synced_at": "2026-10-30"
   }
+ },
+ {
+  "slug": "pengsonal-464358",
+  "seo_slug": "free-jailbreak-prompts-26-ai-models",
+  "model": "gemini-4-argon",
+  "author": "pengsonal",
+  "author_url": "https://x.com/pengsonal",
+  "post_url": "https://x.com/pengsonal/status/2116088546138464358",
+  "title": "FREE JAILBREAK PROMPTS FOR 26+ AI MODELS",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 32020,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "chetaslua-950069",
+  "seo_slug": "gemini-4-carbon-js-loop-sleep",
+  "model": "gemini-4-argon",
+  "author": "chetaslua",
+  "author_url": "https://x.com/chetaslua",
+  "post_url": "https://x.com/chetaslua/status/2115935747798950069",
+  "title": "🚨 Gemini 4 Carbon: JS loop for sleep with original music and svg of girl in rain",
+  "category": "motion",
+  "tech_tags": [
+   "svg",
+   "web-audio"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 25077,
+   "captured_at": "2026-10-30"
+  }
+ },
+ {
+  "slug": "adidotdev-538737",
+  "seo_slug": "every-kid-had-their-patience-tested",
+  "model": "gemini-4-argon",
+  "author": "Adidotdev",
+  "author_url": "https://x.com/Adidotdev",
+  "post_url": "https://x.com/Adidotdev/status/2115842725245538737",
+  "title": "every kid had their patience tested by one of these before smartphones existed.",
+  "category": "3d-scenes",
+  "tech_tags": [
+   "threejs",
+   "glsl",
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-30",
+  "stats_snapshot": {
+   "views": 19091,
+   "captured_at": "2026-10-30"
+  }
  }
 ]
