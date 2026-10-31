@@ -9772,6 +9772,18 @@
   "stats_snapshot": {
    "views": 78073,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/micro1-ai-314116/poster.jpg",
+   "width": 1280,
+   "height": 720,
+   "duration_ms": 36715,
+   "bytes": 2419994,
+   "synced_at": "2026-10-31"
   }
  },
  {
@@ -9792,6 +9804,18 @@
   "stats_snapshot": {
    "views": 20635,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/xiaoying-eth-975178/poster.jpg",
+   "width": 1574,
+   "height": 720,
+   "duration_ms": 40149,
+   "bytes": 6502373,
+   "synced_at": "2026-10-31"
   }
  }
 ]

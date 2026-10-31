@@ -1,6 +1,6 @@
 {
  "mosaic": {
-  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gemini4-argon-videos/mosaic.856b07a728.webp",
+  "url": "https://media.clawshelf.com/ai-videos/_readme/awesome-gemini4-argon-videos/mosaic.0b85f630b6.webp",
   "width": 1920,
   "height": 1080,
   "slugs": [
@@ -10,6 +10,7 @@
    "google-540555",
    "googledeepmind-247896",
    "wenhaocha1-205413",
+   "micro1-ai-314116",
    "ramplabs-706886",
    "robocurve-697613",
    "glitch-catai-460925",
@@ -29,6 +30,7 @@
    "lentils80-668854",
    "itspaulai-962328",
    "ai-screening-859992",
+   "xiaoying-eth-975178",
    "ai-for-success-258526",
    "cdgalpha-737879",
    "thtbee-464549",
@@ -109,9 +111,7 @@
    "vattenee-803851",
    "ranli-thinker-416433",
    "scottstts-818213",
-   "jacobilin-978425",
-   "philschmid-560107",
-   "0genlab-883092"
+   "jacobilin-978425"
   ]
  }
 }
