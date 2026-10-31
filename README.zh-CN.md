@@ -7,7 +7,7 @@
 
 用 **Gemini 4 Argon**「以代码渲染视频」的爆款合集 —— 动画、游戏、3D 场景与长片短片,全部用代码实时渲染(HTML、Canvas、SVG、Three.js 等)。每个条目都链接到创作者的原始帖子,并附上作者公开的 prompt(如有)。
 
-**[▶ 在 clawshelf.com 观看全部 345 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
+**[▶ 在 clawshelf.com 观看全部 346 条视频](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos)**
 
 📦 全模型总集:[Awesome Viral AI Videos](https://github.com/billyhetech/awesome-viral-ai-videos)
 
@@ -15,12 +15,12 @@
 
 [`prompts/`](prompts/) 与 [`data/videos.json`](data/videos.json) 中收录 **65 条 prompt** · 每个条目均链接原帖并署名 · [提交视频](https://github.com/billyhetech/awesome-gemini4-argon-videos/issues/new?template=submit-video.yml)
 
-- 最近更新(2026-10-31):共 345 条
+- 最近更新(2026-10-31):共 346 条
 - 下方每个分类展示播放量最高的 12 条;点击视频即可在 clawshelf.com 观看
 
 ## 目录
 
-- [动态图形](#动态图形) (107)
+- [动态图形](#动态图形) (108)
 - [讲解动画](#讲解动画) (0)
 - [3D 场景](#3d-场景) (109)
 - [游戏与交互](#游戏与交互) (126)
@@ -37,7 +37,7 @@
 <tr><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/gave-kimi-k3-1-pro-gemini?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/glitch-catai-460925/preview.webp" alt="Gemini 4 Argon video by @glitch_catAI" width="100%"></a><br><a href="https://x.com/glitch_catAI/status/2113981829984460925"><b>@glitch_catAI</b></a> · <a href="prompts/glitch-catai-460925.md">提示词</a><br><sub>Canvas · 67K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/google-doubling-price-gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/adamholtererer-267650/preview.webp" alt="Gemini 4 Argon video by @AdamHoltererer" width="100%"></a><br><a href="https://x.com/AdamHoltererer/status/2115755508485267650"><b>@AdamHoltererer</b></a> · <a href="prompts/adamholtererer-267650.md">详情</a><br><sub>Canvas · 51K views</sub></td><td width="33%" valign="top"><a href="https://clawshelf.com/ai-videos/gemini-4-argon/5-gemini-ai-pro-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos"><img src="https://media.clawshelf.com/ai-videos/gemini-4-argon/cgnot996-544957/preview.webp" alt="Gemini 4 Argon video by @cgnot996" width="100%"></a><br><a href="https://x.com/cgnot996/status/2115647822087544957"><b>@cgnot996</b></a> · <a href="prompts/cgnot996-544957.md">提示词</a><br><sub>Canvas · 45K views</sub></td></tr>
 </table>
 
-[▶ 在 clawshelf.com 查看全部 107 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
+[▶ 在 clawshelf.com 查看全部 108 条](https://clawshelf.com/ai-videos/gemini-4-argon?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos&category=motion)
 
 ## 讲解动画
 
@@ -80,6 +80,7 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 ## 最新收录
 
 - [We gave 10 frontier AI models control of a surgical robot in a simulated operat…](https://clawshelf.com/ai-videos/gemini-4-argon/gave-10-frontier-ai-models-control?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@micro1_ai](https://x.com/micro1_ai/status/2116236718957314116) · [详情](prompts/micro1-ai-314116.md)
+- [Gemini 4 Carbon debuts at on APEX-Agents, and it's the only model on the leader…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-carbon-debuts-apex-agents?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@mercor](https://x.com/mercor/status/2116226723968872959) · [详情](prompts/mercor-872959.md)
 - [有人发现了一份《越狱提示词大全》，不知道分享出来是否违规。](https://clawshelf.com/ai-videos/gemini-4-argon/motion-graphics-by-xiaoying-eth?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@xiaoying_eth](https://x.com/xiaoying_eth/status/2116089284658975178) · [提示词](prompts/xiaoying-eth-975178.md)
 - [😤 全体起立！我找到了让闲鱼 5 块买的 Gemini AI Pro 也能在命令行用 Gemini 4 Argon 模型的办法！](https://clawshelf.com/ai-videos/gemini-4-argon/5-gemini-ai-pro-gemini-4?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@cgnot996](https://x.com/cgnot996/status/2115647822087544957) · [提示词](prompts/cgnot996-544957.md)
 - [FREE JAILBREAK PROMPTS FOR 26+ AI MODELS](https://clawshelf.com/ai-videos/gemini-4-argon/free-jailbreak-prompts-26-ai-models?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@pengsonal](https://x.com/pengsonal/status/2116088546138464358) · [详情](prompts/pengsonal-464358.md)
@@ -108,7 +109,6 @@ _还没有收录 —— [来提交第一个](https://github.com/billyhetech/awes
 - [Studio-grade 3D fur dynamics, running live in your browser with Gemini 4 Argon.](https://clawshelf.com/ai-videos/gemini-4-argon/studio-grade-3d-fur-dynamics-running?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2112552114467602487) · [详情](prompts/google-602487.md)
 - [Researchers at put Gemini 4 Argon to the test against complex cyber threats.](https://clawshelf.com/ai-videos/gemini-4-argon/researchers-put-gemini-4-argon-test?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2112914740058181739) · [详情](prompts/google-181739.md)
 - [Starting from a single Nano Banana image, Gemini 4 Argon created this finished…](https://clawshelf.com/ai-videos/gemini-4-argon/starting-single-nano-banana-image-gemini?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@Google](https://x.com/Google/status/2113353489938075794) · [详情](prompts/google-075794.md)
-- [Gemini 4 Argon combined three open-source datasets to build an interactive 3D v…](https://clawshelf.com/ai-videos/gemini-4-argon/gemini-4-argon-combined-three-open?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini4-argon-videos) — [@GoogleDeepMind](https://x.com/GoogleDeepMind/status/2112974723659247896) · [详情](prompts/googledeepmind-247896.md)
 
 ## 如何使用 prompt
 

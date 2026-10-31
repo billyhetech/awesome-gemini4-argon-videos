@@ -9817,5 +9817,25 @@
    "bytes": 6502373,
    "synced_at": "2026-10-31"
   }
+ },
+ {
+  "slug": "mercor-872959",
+  "seo_slug": "gemini-4-carbon-debuts-apex-agents",
+  "model": "gemini-4-argon",
+  "author": "mercor",
+  "author_url": "https://x.com/mercor",
+  "post_url": "https://x.com/mercor/status/2116226723968872959",
+  "title": "Gemini 4 Carbon debuts at on APEX-Agents, and it's the only model on the leader…",
+  "category": "motion",
+  "tech_tags": [
+   "canvas"
+  ],
+  "prompt": "",
+  "prompt_partial": true,
+  "added": "2026-10-31",
+  "stats_snapshot": {
+   "views": 59359,
+   "captured_at": "2026-10-31"
+  }
  }
 ]
