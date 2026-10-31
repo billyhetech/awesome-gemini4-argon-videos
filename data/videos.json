@@ -9836,6 +9836,18 @@
   "stats_snapshot": {
    "views": 59359,
    "captured_at": "2026-10-31"
+  },
+  "media": {
+   "status": "ok",
+   "video_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/mercor-872959/video.mp4",
+   "preview_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/mercor-872959/preview.mp4",
+   "preview_webp_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/mercor-872959/preview.webp",
+   "poster_url": "https://media.clawshelf.com/ai-videos/gemini-4-argon/mercor-872959/poster.jpg",
+   "width": 898,
+   "height": 720,
+   "duration_ms": 5000,
+   "bytes": 110303,
+   "synced_at": "2026-10-31"
   }
  }
 ]
